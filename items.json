@@ -1,0 +1,500 @@
+[
+  {
+    "id": 1,
+    "category": "Crepes",
+    "name": "Nutella crepe",
+    "price": "4$",
+    "description": "Classic crepe with Nutella.",
+    "image": "images/crepe-nutella.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Crepes",
+    "name": "Kinder crepe",
+    "price": "5$",
+    "description": "Crepe with Kinder chocolate.",
+    "image": "images/crepe-kinder.jpg"
+  },
+  {
+    "id": 3,
+    "category": "Crepes",
+    "name": "Oreo crepe",
+    "price": "5$",
+    "description": "Crepe with crushed Oreo.",
+    "image": "images/crepe-oreo.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Crepes",
+    "name": "Lotus crepe",
+    "price": "5$",
+    "description": "Crepe with Lotus spread.",
+    "image": "images/crepe-lotus.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Crepes",
+    "name": "Pistachio crepe",
+    "price": "5$",
+    "description": "Crepe with pistachio cream.",
+    "image": "images/crepe-pistachio.jpg"
+  },
+
+  {
+    "id": 6,
+    "category": "Waffles",
+    "name": "Nutella waffle",
+    "price": "4$",
+    "description": "Warm waffle with Nutella.",
+    "image": "images/waffle-nutella.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Waffles",
+    "name": "Kinder waffle",
+    "price": "5$",
+    "description": "Waffle with Kinder chocolate.",
+    "image": "images/waffle-kinder.jpg"
+  },
+  {
+    "id": 8,
+    "category": "Waffles",
+    "name": "Oreo waffle",
+    "price": "5$",
+    "description": "Waffle with Oreo pieces.",
+    "image": "images/waffle-oreo.jpg"
+  },
+  {
+    "id": 9,
+    "category": "Waffles",
+    "name": "Lotus waffle",
+    "price": "5$",
+    "description": "Waffle with Lotus spread.",
+    "image": "images/waffle-lotus.jpg"
+  },
+  {
+    "id": 10,
+    "category": "Waffles",
+    "name": "Pistachio waffle",
+    "price": "5$",
+    "description": "Waffle with pistachio cream.",
+    "image": "images/waffle-pistachio.jpg"
+  },
+
+  {
+    "id": 11,
+    "category": "Pancakes",
+    "name": "Nutella pancake",
+    "price": "4$",
+    "description": "Fluffy Nutella pancakes.",
+    "image": "images/pancake-nutella.jpg"
+  },
+  {
+    "id": 12,
+    "category": "Pancakes",
+    "name": "Kinder pancake",
+    "price": "5$",
+    "description": "Pancakes with Kinder cream.",
+    "image": "images/pancake-kinder.jpg"
+  },
+  {
+    "id": 13,
+    "category": "Pancakes",
+    "name": "Oreo pancake",
+    "price": "5$",
+    "description": "Pancakes with Oreo crumbles.",
+    "image": "images/pancake-oreo.jpg"
+  },
+  {
+    "id": 14,
+    "category": "Pancakes",
+    "name": "Lotus pancake",
+    "price": "5$",
+    "description": "Pancakes with Lotus sauce.",
+    "image": "images/pancake-lotus.jpg"
+  },
+  {
+    "id": 15,
+    "category": "Pancakes",
+    "name": "Pistachio pancake",
+    "price": "5$",
+    "description": "Pancakes with pistachio cream.",
+    "image": "images/pancake-pistachio.jpg"
+  },
+
+  {
+    "id": 16,
+    "category": "Sweets",
+    "name": "Chocolate cake piece",
+    "price": "4.5$",
+    "description": "Rich chocolate cake slice.",
+    "image": "images/cake-choco.jpg"
+  },
+  {
+    "id": 17,
+    "category": "Sweets",
+    "name": "Cupcakes",
+    "price": "2$",
+    "description": "Daily fresh cupcakes.",
+    "image": "images/cupcake.jpg"
+  },
+  {
+    "id": 18,
+    "category": "Sweets",
+    "name": "Berries cheesecake",
+    "price": "4.5$",
+    "description": "Creamy berry cheesecake.",
+    "image": "images/cheesecake-berry.jpg"
+  },
+  {
+    "id": 19,
+    "category": "Sweets",
+    "name": "Strawberry cheesecake",
+    "price": "4.5$",
+    "description": "Creamy strawberry cheesecake.",
+    "image": "images/cheesecake-strawberry.jpg"
+  },
+  {
+    "id": 20,
+    "category": "Sweets",
+    "name": "Lotus cheesecake",
+    "price": "4.5$",
+    "description": "Lotus flavored cheesecake.",
+    "image": "images/cheesecake-lotus.jpg"
+  },
+  {
+    "id": 21,
+    "category": "Sweets",
+    "name": "Oreo cheesecake",
+    "price": "4.5$",
+    "description": "Oreo flavored cheesecake.",
+    "image": "images/cheesecake-oreo.jpg"
+  },
+  {
+    "id": 22,
+    "category": "Sweets",
+    "name": "Tiramisu",
+    "price": "4.5$",
+    "description": "Classic Italian tiramisu.",
+    "image": "images/tiramisu.jpg"
+  },
+  {
+    "id": 23,
+    "category": "Sweets",
+    "name": "Lazy cake",
+    "price": "4.5$",
+    "description": "Traditional chocolate biscuit cake.",
+    "image": "images/lazy-cake.jpg"
+  },
+
+  {
+    "id": 24,
+    "category": "Kaake",
+    "name": "Thyme",
+    "price": "100 L.L",
+    "description": "Zaatar Kaake.",
+    "image": "images/kaake-thyme.jpg"
+  },
+  {
+    "id": 25,
+    "category": "Kaake",
+    "name": "Picon",
+    "price": "150 L.L",
+    "description": "Cheese Picon Kaake.",
+    "image": "images/kaake-picon.jpg"
+  },
+  {
+    "id": 26,
+    "category": "Kaake",
+    "name": "Halloum",
+    "price": "170 L.L",
+    "description": "Halloumi cheese Kaake.",
+    "image": "images/kaake-halloum.jpg"
+  },
+  {
+    "id": 27,
+    "category": "Kaake",
+    "name": "Akawi",
+    "price": "200 L.L",
+    "description": "Akawi cheese Kaake.",
+    "image": "images/kaake-akawi.jpg"
+  },
+  {
+    "id": 28,
+    "category": "Kaake",
+    "name": "3 cheese",
+    "price": "250 L.L",
+    "description": "Triple cheese blend Kaake.",
+    "image": "images/kaake-3cheese.jpg"
+  },
+  {
+    "id": 29,
+    "category": "Kaake",
+    "name": "4 cheese",
+    "price": "300 L.L",
+    "description": "Four cheese blend Kaake.",
+    "image": "images/kaake-4cheese.jpg"
+  },
+  {
+    "id": 30,
+    "category": "Kaake",
+    "name": "Turkey & cheese",
+    "price": "300 L.L",
+    "description": "Turkey slices and cheese Kaake.",
+    "image": "images/kaake-turkey.jpg"
+  },
+  {
+    "id": 31,
+    "category": "Kaake",
+    "name": "Nutella Kaake",
+    "price": "150 L.L",
+    "description": "Sweet Nutella Kaake.",
+    "image": "images/kaake-nutella.jpg"
+  },
+  {
+    "id": 32,
+    "category": "Kaake",
+    "name": "Pizza Kaake",
+    "price": "350 L.L",
+    "description": "Pizza toppings Kaake.",
+    "image": "images/kaake-pizza.jpg"
+  },
+
+  {
+    "id": 33,
+    "category": "Hot Drinks",
+    "name": "Cappuccino",
+    "price": "200 L.L",
+    "description": "Frothy espresso and milk.",
+    "image": "images/hot-capp.jpg"
+  },
+  {
+    "id": 34,
+    "category": "Hot Drinks",
+    "name": "Hot chocolate",
+    "price": "250 L.L",
+    "description": "Creamy hot cocoa.",
+    "image": "images/hot-choco.jpg"
+  },
+  {
+    "id": 35,
+    "category": "Hot Drinks",
+    "name": "Americano",
+    "price": "200 L.L",
+    "description": "Diluted espresso shot.",
+    "image": "images/hot-ameri.jpg"
+  },
+  {
+    "id": 36,
+    "category": "Hot Drinks",
+    "name": "Flat white",
+    "price": "200 L.L",
+    "description": "Velvety espresso drink.",
+    "image": "images/hot-flat.jpg"
+  },
+  {
+    "id": 37,
+    "category": "Hot Drinks",
+    "name": "Caramel macchiato",
+    "price": "250 L.L",
+    "description": "Sweet caramel coffee.",
+    "image": "images/hot-macchi.jpg"
+  },
+  {
+    "id": 38,
+    "category": "Hot Drinks",
+    "name": "Caffe latte",
+    "price": "200 L.L",
+    "description": "Smooth milk and espresso.",
+    "image": "images/hot-latte.jpg"
+  },
+  {
+    "id": 39,
+    "category": "Hot Drinks",
+    "name": "White mocca latte",
+    "price": "250 L.L",
+    "description": "White chocolate latte.",
+    "image": "images/hot-white.jpg"
+  },
+  {
+    "id": 40,
+    "category": "Hot Drinks",
+    "name": "Dark mocca latte",
+    "price": "250 L.L",
+    "description": "Dark chocolate latte.",
+    "image": "images/hot-dark.jpg"
+  },
+  {
+    "id": 41,
+    "category": "Hot Drinks",
+    "name": "Spanish latte",
+    "price": "250 L.L",
+    "description": "Sweet condensed milk latte.",
+    "image": "images/hot-spanish.jpg"
+  },
+
+  {
+    "id": 42,
+    "category": "Iced Drinks",
+    "name": "Iced caramel macchiato",
+    "price": "250 L.L",
+    "description": "Iced sweet caramel coffee.",
+    "image": "images/iced-macchi.jpg"
+  },
+  {
+    "id": 43,
+    "category": "Iced Drinks",
+    "name": "Iced white mocca",
+    "price": "250 L.L",
+    "description": "Iced white chocolate coffee.",
+    "image": "images/iced-white.jpg"
+  },
+  {
+    "id": 44,
+    "category": "Iced Drinks",
+    "name": "Iced dark mocca",
+    "price": "250 L.L",
+    "description": "Iced dark chocolate coffee.",
+    "image": "images/iced-dark.jpg"
+  },
+  {
+    "id": 45,
+    "category": "Iced Drinks",
+    "name": "Iced latte",
+    "price": "200 L.L",
+    "description": "Chilled espresso and milk.",
+    "image": "images/iced-latte.jpg"
+  },
+  {
+    "id": 46,
+    "category": "Iced Drinks",
+    "name": "Iced Spanish latte",
+    "price": "250 L.L",
+    "description": "Chilled sweet condensed milk latte.",
+    "image": "images/iced-spanish.jpg"
+  },
+  {
+    "id": 47,
+    "category": "Iced Drinks",
+    "name": "Crepura iced",
+    "price": "300 L.L",
+    "description": "Signature iced house blend.",
+    "image": "images/iced-crepura.jpg"
+  },
+
+  {
+    "id": 48,
+    "category": "Milkshakes",
+    "name": "chocolate milkshake",
+    "price": "300 L.L",
+    "description": "Classic chocolate shake.",
+    "image": "images/shake-choco.jpg"
+  },
+  {
+    "id": 49,
+    "category": "Milkshakes",
+    "name": "vanilla milkshake",
+    "price": "300 L.L",
+    "description": "Classic vanilla shake.",
+    "image": "images/shake-vanilla.jpg"
+  },
+  {
+    "id": 50,
+    "category": "Milkshakes",
+    "name": "Oreo milkshake",
+    "price": "300 L.L",
+    "description": "Cookie blended shake.",
+    "image": "images/shake-oreo.jpg"
+  },
+  {
+    "id": 51,
+    "category": "Milkshakes",
+    "name": "Lotus milkshake",
+    "price": "300 L.L",
+    "description": "Lotus biscuit shake.",
+    "image": "images/shake-lotus.jpg"
+  },
+
+  {
+    "id": 52,
+    "category": "Frappe",
+    "name": "Vanilla frappe",
+    "price": "350 L.L",
+    "description": "Blended vanilla coffee.",
+    "image": "images/frappe-vanilla.jpg"
+  },
+  {
+    "id": 53,
+    "category": "Frappe",
+    "name": "Caramel frappe",
+    "price": "350 L.L",
+    "description": "Blended caramel coffee.",
+    "image": "images/frappe-caramel.jpg"
+  },
+  {
+    "id": 54,
+    "category": "Frappe",
+    "name": "Mocha frappe",
+    "price": "350 L.L",
+    "description": "Blended chocolate coffee.",
+    "image": "images/frappe-mocha.jpg"
+  },
+
+  {
+    "id": 55,
+    "category": "Smoothies",
+    "name": "Mango smoothie",
+    "price": "300 L.L",
+    "description": "Refreshing mango blend.",
+    "image": "images/smoothie-mango.jpg"
+  },
+  {
+    "id": 56,
+    "category": "Smoothies",
+    "name": "Strawberry smoothie",
+    "price": "300 L.L",
+    "description": "Refreshing strawberry blend.",
+    "image": "images/smoothie-strawberry.jpg"
+  },
+  {
+    "id": 57,
+    "category": "Smoothies",
+    "name": "Wild berries smoothie",
+    "price": "300 L.L",
+    "description": "Refreshing berry blend.",
+    "image": "images/smoothie-berry.jpg"
+  },
+
+  {
+    "id": 58,
+    "category": "Sugar Free",
+    "name": "S.F. Vanilla milkshake",
+    "price": "300 L.L",
+    "description": "Sugar-free vanilla shake.",
+    "image": "images/sf-vanilla-shake.jpg"
+  },
+  {
+    "id": 59,
+    "category": "Sugar Free",
+    "name": "S.F. Caramel milkshake",
+    "price": "300 L.L",
+    "description": "Sugar-free caramel shake.",
+    "image": "images/sf-caramel-shake.jpg"
+  },
+  {
+    "id": 60,
+    "category": "Sugar Free",
+    "name": "S.F. Vanilla frappe",
+    "price": "350 L.L",
+    "description": "Sugar-free vanilla frappe.",
+    "image": "images/sf-vanilla-frappe.jpg"
+  },
+  {
+    "id": 61,
+    "category": "Sugar Free",
+    "name": "S.F. Caramel frappe",
+    "price": "350 L.L",
+    "description": "Sugar-free caramel frappe.",
+    "image": "images/sf-caramel-frappe.jpg"
+  }
+]
