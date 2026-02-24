@@ -5,7 +5,7 @@
     "name": "Nutella crepe",
     "price": "4$",
     "description": "Classic crepe with Nutella.",
-    "image": "images/crepe-nutella.jpg"
+    "image": "images/nutella_crepe.jpeg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "name": "Kinder crepe",
     "price": "5$",
     "description": "Crepe with Kinder chocolate.",
-    "image": "images/crepe-kinder.jpg"
+    "image": "images/kinder_crepe.jpeg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "name": "Oreo crepe",
     "price": "5$",
     "description": "Crepe with crushed Oreo.",
-    "image": "images/crepe-oreo.jpg"
+    "image": "images/oreo_crepe.jpeg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "name": "Lotus crepe",
     "price": "5$",
     "description": "Crepe with Lotus spread.",
-    "image": "images/crepe-lotus.jpg"
+    "image": "images/lotus_crepe.jpeg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "name": "Pistachio crepe",
     "price": "5$",
     "description": "Crepe with pistachio cream.",
-    "image": "images/crepe-pistachio.jpg"
+    "image": "images/pistachio_crepe.jpeg"
   },
 
   {
@@ -46,7 +46,7 @@
     "name": "Nutella waffle",
     "price": "4$",
     "description": "Warm waffle with Nutella.",
-    "image": "images/waffle-nutella.jpg"
+    "image": "images/waffle-nutella.jpeg"
   },
   {
     "id": 7,
@@ -54,7 +54,7 @@
     "name": "Kinder waffle",
     "price": "5$",
     "description": "Waffle with Kinder chocolate.",
-    "image": "images/waffle-kinder.jpg"
+    "image": "images/waffle-kinder.jpeg"
   },
   {
     "id": 8,
@@ -62,7 +62,7 @@
     "name": "Oreo waffle",
     "price": "5$",
     "description": "Waffle with Oreo pieces.",
-    "image": "images/waffle-oreo.jpg"
+    "image": "images/waffle-oreo.jpeg"
   },
   {
     "id": 9,
@@ -70,7 +70,7 @@
     "name": "Lotus waffle",
     "price": "5$",
     "description": "Waffle with Lotus spread.",
-    "image": "images/waffle-lotus.jpg"
+    "image": "images/waffle-lotus.jpeg"
   },
   {
     "id": 10,
@@ -78,7 +78,7 @@
     "name": "Pistachio waffle",
     "price": "5$",
     "description": "Waffle with pistachio cream.",
-    "image": "images/waffle-pistachio.jpg"
+    "image": "images/waffle-pistachio.jpeg"
   },
 
   {
@@ -87,7 +87,7 @@
     "name": "Nutella pancake",
     "price": "4$",
     "description": "Fluffy Nutella pancakes.",
-    "image": "images/pancake-nutella.jpg"
+    "image": "images/pancake-nutella.jpeg"
   },
   {
     "id": 12,
@@ -95,7 +95,7 @@
     "name": "Kinder pancake",
     "price": "5$",
     "description": "Pancakes with Kinder cream.",
-    "image": "images/pancake-kinder.jpg"
+    "image": "images/pancake-kinder.jpeg"
   },
   {
     "id": 13,
@@ -103,7 +103,7 @@
     "name": "Oreo pancake",
     "price": "5$",
     "description": "Pancakes with Oreo crumbles.",
-    "image": "images/pancake-oreo.jpg"
+    "image": "images/pancake-oreo.jpeg"
   },
   {
     "id": 14,
@@ -111,7 +111,7 @@
     "name": "Lotus pancake",
     "price": "5$",
     "description": "Pancakes with Lotus sauce.",
-    "image": "images/pancake-lotus.jpg"
+    "image": "images/pancake-lotus.jpeg"
   },
   {
     "id": 15,
@@ -119,7 +119,7 @@
     "name": "Pistachio pancake",
     "price": "5$",
     "description": "Pancakes with pistachio cream.",
-    "image": "images/pancake-pistachio.jpg"
+    "image": "images/pancake-pistachio.jpeg"
   },
 
   {
@@ -128,7 +128,7 @@
     "name": "Chocolate cake piece",
     "price": "4.5$",
     "description": "Rich chocolate cake slice.",
-    "image": "images/cake-choco.jpg"
+    "image": "images/cake-choco.jpeg"
   },
   {
     "id": 17,
@@ -136,7 +136,7 @@
     "name": "Cupcakes",
     "price": "2$",
     "description": "Daily fresh cupcakes.",
-    "image": "images/cupcake.jpg"
+    "image": "images/cupcake.jpeg"
   },
   {
     "id": 18,
@@ -144,7 +144,7 @@
     "name": "Berries cheesecake",
     "price": "4.5$",
     "description": "Creamy berry cheesecake.",
-    "image": "images/cheesecake-berry.jpg"
+    "image": "images/cheesecake-berry.jpeg"
   },
   {
     "id": 19,
@@ -152,7 +152,7 @@
     "name": "Strawberry cheesecake",
     "price": "4.5$",
     "description": "Creamy strawberry cheesecake.",
-    "image": "images/cheesecake-strawberry.jpg"
+    "image": "images/cheesecake-strawberry.jpeg"
   },
   {
     "id": 20,
@@ -160,7 +160,7 @@
     "name": "Lotus cheesecake",
     "price": "4.5$",
     "description": "Lotus flavored cheesecake.",
-    "image": "images/cheesecake-lotus.jpg"
+    "image": "images/cheesecake-lotus.jpeg"
   },
   {
     "id": 21,
@@ -168,7 +168,7 @@
     "name": "Oreo cheesecake",
     "price": "4.5$",
     "description": "Oreo flavored cheesecake.",
-    "image": "images/cheesecake-oreo.jpg"
+    "image": "images/cheesecake-oreo.jpeg"
   },
   {
     "id": 22,
@@ -176,7 +176,7 @@
     "name": "Tiramisu",
     "price": "4.5$",
     "description": "Classic Italian tiramisu.",
-    "image": "images/tiramisu.jpg"
+    "image": "images/tiramisu.jpeg"
   },
   {
     "id": 23,
@@ -184,7 +184,7 @@
     "name": "Lazy cake",
     "price": "4.5$",
     "description": "Traditional chocolate biscuit cake.",
-    "image": "images/lazy-cake.jpg"
+    "image": "images/lazy-cake.jpeg"
   },
 
   {
@@ -193,7 +193,7 @@
     "name": "Thyme",
     "price": "100 L.L",
     "description": "Zaatar Kaake.",
-    "image": "images/kaake-thyme.jpg"
+    "image": "images/kaake.jpeg"
   },
   {
     "id": 25,
@@ -201,7 +201,7 @@
     "name": "Picon",
     "price": "150 L.L",
     "description": "Cheese Picon Kaake.",
-    "image": "images/kaake-picon.jpg"
+    "image": "images/kaake.jpeg"
   },
   {
     "id": 26,
@@ -209,7 +209,7 @@
     "name": "Halloum",
     "price": "170 L.L",
     "description": "Halloumi cheese Kaake.",
-    "image": "images/kaake-halloum.jpg"
+    "image": "images/kaake.jpeg"
   },
   {
     "id": 27,
@@ -217,7 +217,7 @@
     "name": "Akawi",
     "price": "200 L.L",
     "description": "Akawi cheese Kaake.",
-    "image": "images/kaake-akawi.jpg"
+    "image": "images/kaake.jpeg"
   },
   {
     "id": 28,
@@ -225,7 +225,7 @@
     "name": "3 cheese",
     "price": "250 L.L",
     "description": "Triple cheese blend Kaake.",
-    "image": "images/kaake-3cheese.jpg"
+    "image": "images/kaake.jpeg"
   },
   {
     "id": 29,
@@ -233,7 +233,7 @@
     "name": "4 cheese",
     "price": "300 L.L",
     "description": "Four cheese blend Kaake.",
-    "image": "images/kaake-4cheese.jpg"
+    "image": "images/kaake.jpeg"
   },
   {
     "id": 30,
@@ -241,7 +241,7 @@
     "name": "Turkey & cheese",
     "price": "300 L.L",
     "description": "Turkey slices and cheese Kaake.",
-    "image": "images/kaake-turkey.jpg"
+    "image": "images/kaake.jpeg"
   },
   {
     "id": 31,
@@ -249,7 +249,7 @@
     "name": "Nutella Kaake",
     "price": "150 L.L",
     "description": "Sweet Nutella Kaake.",
-    "image": "images/kaake-nutella.jpg"
+    "image": "images/kaake.jpeg"
   },
   {
     "id": 32,
@@ -257,7 +257,7 @@
     "name": "Pizza Kaake",
     "price": "350 L.L",
     "description": "Pizza toppings Kaake.",
-    "image": "images/kaake-pizza.jpg"
+    "image": "images/kaake.jpeg"
   },
 
   {
@@ -266,7 +266,7 @@
     "name": "Cappuccino",
     "price": "200 L.L",
     "description": "Frothy espresso and milk.",
-    "image": "images/hot-capp.jpg"
+    "image": "images/hot-capp.jpeg"
   },
   {
     "id": 34,
@@ -274,7 +274,7 @@
     "name": "Hot chocolate",
     "price": "250 L.L",
     "description": "Creamy hot cocoa.",
-    "image": "images/hot-choco.jpg"
+    "image": "images/hot-choco.jpeg"
   },
   {
     "id": 35,
@@ -282,7 +282,7 @@
     "name": "Americano",
     "price": "200 L.L",
     "description": "Diluted espresso shot.",
-    "image": "images/hot-ameri.jpg"
+    "image": "images/hot-ameri.jpeg"
   },
   {
     "id": 36,
@@ -290,7 +290,7 @@
     "name": "Flat white",
     "price": "200 L.L",
     "description": "Velvety espresso drink.",
-    "image": "images/hot-flat.jpg"
+    "image": "images/hot-flat.jpeg"
   },
   {
     "id": 37,
@@ -298,7 +298,7 @@
     "name": "Caramel macchiato",
     "price": "250 L.L",
     "description": "Sweet caramel coffee.",
-    "image": "images/hot-macchi.jpg"
+    "image": "images/caramel_macchiato.jpeg"
   },
   {
     "id": 38,
@@ -306,7 +306,7 @@
     "name": "Caffe latte",
     "price": "200 L.L",
     "description": "Smooth milk and espresso.",
-    "image": "images/hot-latte.jpg"
+    "image": "images/caffee_latte.jpeg"
   },
   {
     "id": 39,
@@ -314,7 +314,7 @@
     "name": "White mocca latte",
     "price": "250 L.L",
     "description": "White chocolate latte.",
-    "image": "images/hot-white.jpg"
+    "image": "images/white_mocca_latte.jpeg"
   },
   {
     "id": 40,
@@ -322,7 +322,7 @@
     "name": "Dark mocca latte",
     "price": "250 L.L",
     "description": "Dark chocolate latte.",
-    "image": "images/hot-dark.jpg"
+    "image": "images/dark_mocca_latte.jpeg"
   },
   {
     "id": 41,
@@ -330,7 +330,7 @@
     "name": "Spanish latte",
     "price": "250 L.L",
     "description": "Sweet condensed milk latte.",
-    "image": "images/hot-spanish.jpg"
+    "image": "images/hot-spanish.jpeg"
   },
 
   {
@@ -339,7 +339,7 @@
     "name": "Iced caramel macchiato",
     "price": "250 L.L",
     "description": "Iced sweet caramel coffee.",
-    "image": "images/iced-macchi.jpg"
+    "image": "images/iced_caramel_maciato.jpeg"
   },
   {
     "id": 43,
@@ -347,7 +347,7 @@
     "name": "Iced white mocca",
     "price": "250 L.L",
     "description": "Iced white chocolate coffee.",
-    "image": "images/iced-white.jpg"
+    "image": "images/iced-white.jpeg"
   },
   {
     "id": 44,
@@ -355,7 +355,7 @@
     "name": "Iced dark mocca",
     "price": "250 L.L",
     "description": "Iced dark chocolate coffee.",
-    "image": "images/iced-dark.jpg"
+    "image": "images/iced-dark.jpeg"
   },
   {
     "id": 45,
@@ -363,7 +363,7 @@
     "name": "Iced latte",
     "price": "200 L.L",
     "description": "Chilled espresso and milk.",
-    "image": "images/iced-latte.jpg"
+    "image": "images/iced-latte.jpeg"
   },
   {
     "id": 46,
@@ -371,7 +371,7 @@
     "name": "Iced Spanish latte",
     "price": "250 L.L",
     "description": "Chilled sweet condensed milk latte.",
-    "image": "images/iced-spanish.jpg"
+    "image": "images/iced-spanish.jpeg"
   },
   {
     "id": 47,
@@ -379,7 +379,7 @@
     "name": "Crepura iced",
     "price": "300 L.L",
     "description": "Signature iced house blend.",
-    "image": "images/iced-crepura.jpg"
+    "image": "images/crepura_iced.jpeg"
   },
 
   {
@@ -388,7 +388,16 @@
     "name": "chocolate milkshake",
     "price": "300 L.L",
     "description": "Classic chocolate shake.",
-    "image": "images/shake-choco.jpg"
+    "image": "images/shake-choco.jpeg"
+  },
+
+  {
+    "id": 63,
+    "category": "Milkshakes",
+    "name": "Oreo milkshake",
+    "price": "300 L.L",
+    "description": "Classic chocolate shake.",
+    "image": "images/oreo_milkshake.jpeg"
   },
   {
     "id": 49,
@@ -396,7 +405,7 @@
     "name": "vanilla milkshake",
     "price": "300 L.L",
     "description": "Classic vanilla shake.",
-    "image": "images/shake-vanilla.jpg"
+    "image": "images/shake-vanilla.jpeg"
   },
   {
     "id": 50,
@@ -404,7 +413,7 @@
     "name": "Oreo milkshake",
     "price": "300 L.L",
     "description": "Cookie blended shake.",
-    "image": "images/shake-oreo.jpg"
+    "image": "images/shake-oreo.jpeg"
   },
   {
     "id": 51,
@@ -412,7 +421,15 @@
     "name": "Lotus milkshake",
     "price": "300 L.L",
     "description": "Lotus biscuit shake.",
-    "image": "images/shake-lotus.jpg"
+    "image": "images/shake-lotus.jpeg"
+  },
+  {
+    "id": 62,
+    "category": "Milkshakes",
+    "name": "Hazelnut milkshake",
+    "price": "300 L.L",
+    "description": "Hazelnut milkshake.",
+    "image": "images/hazelnut_milkshake.jpeg"
   },
 
   {
@@ -421,7 +438,7 @@
     "name": "Vanilla frappe",
     "price": "350 L.L",
     "description": "Blended vanilla coffee.",
-    "image": "images/frappe-vanilla.jpg"
+    "image": "images/frappe-vanilla.jpeg"
   },
   {
     "id": 53,
@@ -429,7 +446,7 @@
     "name": "Caramel frappe",
     "price": "350 L.L",
     "description": "Blended caramel coffee.",
-    "image": "images/frappe-caramel.jpg"
+    "image": "images/caramel_frappe.jpeg"
   },
   {
     "id": 54,
@@ -437,7 +454,7 @@
     "name": "Mocha frappe",
     "price": "350 L.L",
     "description": "Blended chocolate coffee.",
-    "image": "images/frappe-mocha.jpg"
+    "image": "images/frappe-mocha.jpeg"
   },
 
   {
@@ -446,7 +463,7 @@
     "name": "Mango smoothie",
     "price": "300 L.L",
     "description": "Refreshing mango blend.",
-    "image": "images/smoothie-mango.jpg"
+    "image": "images/mango_smoothie.jpeg"
   },
   {
     "id": 56,
@@ -454,7 +471,7 @@
     "name": "Strawberry smoothie",
     "price": "300 L.L",
     "description": "Refreshing strawberry blend.",
-    "image": "images/smoothie-strawberry.jpg"
+    "image": "images/smoothie-strawberry.jpeg"
   },
   {
     "id": 57,
@@ -462,7 +479,7 @@
     "name": "Wild berries smoothie",
     "price": "300 L.L",
     "description": "Refreshing berry blend.",
-    "image": "images/smoothie-berry.jpg"
+    "image": "images/wild_berries_smoothie.jpeg"
   },
 
   {
@@ -471,7 +488,7 @@
     "name": "S.F. Vanilla milkshake",
     "price": "300 L.L",
     "description": "Sugar-free vanilla shake.",
-    "image": "images/sf-vanilla-shake.jpg"
+    "image": "images/sf-vanilla-shake.jpeg"
   },
   {
     "id": 59,
@@ -479,7 +496,7 @@
     "name": "S.F. Caramel milkshake",
     "price": "300 L.L",
     "description": "Sugar-free caramel shake.",
-    "image": "images/sf-caramel-shake.jpg"
+    "image": "images/sf-caramel-shake.jpeg"
   },
   {
     "id": 60,
@@ -487,7 +504,7 @@
     "name": "S.F. Vanilla frappe",
     "price": "350 L.L",
     "description": "Sugar-free vanilla frappe.",
-    "image": "images/sf-vanilla-frappe.jpg"
+    "image": "images/sf-vanilla-frappe.jpeg"
   },
   {
     "id": 61,
@@ -495,6 +512,6 @@
     "name": "S.F. Caramel frappe",
     "price": "350 L.L",
     "description": "Sugar-free caramel frappe.",
-    "image": "images/sf-caramel-frappe.jpg"
+    "image": "images/sf-caramel-frappe.jpeg"
   }
 ]
