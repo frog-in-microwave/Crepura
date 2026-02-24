@@ -1,87 +1,90 @@
-document.addEventListener("DOMContentLoaded", () => {
-  const container = document.getElementById("menu-container");
-  const navLinks = document.getElementById("nav-links");
-  const modal = document.getElementById("item-modal");
-  const closeBtn = document.querySelector(".close-btn");
+async function loadMenu() {
+  try {
+    const response = await fetch("items.json");
+    const items = await response.json();
+    const container = document.getElementById("menu-container");
+    const navLinks = document.getElementById("nav-links");
 
-  fetch("items.json")
-    .then((res) => res.json())
-    .then((data) => renderMenu(data))
-    .catch((err) => console.error("Error loading menu:", err));
+    // Extract unique categories
+    const categories = [...new Set(items.map((item) => item.category))];
 
-  function renderMenu(items) {
-    const categories = {};
+    categories.forEach((cat, index) => {
+      const safeID = cat.replace(/\s+/g, "-").toLowerCase();
 
-    items.forEach((item) => {
-      if (!categories[item.category]) categories[item.category] = [];
-      categories[item.category].push(item);
-    });
-
-    for (const [catName, catItems] of Object.entries(categories)) {
-      const safeID = catName.replace(/\s+/g, "-").toLowerCase();
-
-      // 1. Create Nav Link
-      const link = document.createElement("a");
-      link.className = "nav-link";
-      link.href = `#${safeID}`;
-      link.textContent = catName;
-
-      link.addEventListener("click", (e) => {
+      // 1. Create Nav Buttons
+      const btn = document.createElement("a");
+      btn.className = "nav-link" + (index === 0 ? " active" : "");
+      btn.href = `#${safeID}`;
+      btn.innerText = cat;
+      btn.onclick = () => {
         document
           .querySelectorAll(".nav-link")
           .forEach((l) => l.classList.remove("active"));
-        link.classList.add("active");
-      });
+        btn.classList.add("active");
+      };
+      navLinks.appendChild(btn);
 
-      navLinks.appendChild(link);
-
-      // 2. Create Section
+      // 2. Create Category Sections
       const section = document.createElement("section");
-      section.className = "category-section";
       section.id = safeID;
-
-      const title = document.createElement("h2");
-      title.className = "category-title";
-      title.textContent = catName;
-      section.appendChild(title);
-
-      const grid = document.createElement("div");
-      grid.className = "grid";
-
-      catItems.forEach((item) => {
-        const card = document.createElement("div");
-        card.className = "card";
-        card.innerHTML = `
-                    <div class="card-img-container"><img src="${item.image}" alt="${item.name}"></div>
-                    <div class="card-info">
-                        <h3 class="card-title">${item.name}</h3>
-                        <p class="card-price">${item.price}</p>
-                    </div>
-                `;
-        card.onclick = () => openModal(item);
-        grid.appendChild(card);
-      });
-      section.appendChild(grid);
+      section.style.scrollMarginTop = "100px";
+      section.innerHTML = `<h2 class="category-title">${cat}</h2><div class="grid" id="grid-${safeID}"></div>`;
       container.appendChild(section);
-    }
+
+      // 3. Populate Items
+      const grid = document.getElementById(`grid-${safeID}`);
+      items
+        .filter((i) => i.category === cat)
+        .forEach((item) => {
+          const card = document.createElement("div");
+          card.className = "card";
+
+          // Skeleton Container
+          const imgCont = document.createElement("div");
+          imgCont.className = "card-img-container";
+          const img = document.createElement("img");
+          img.src = item.image;
+          img.onload = () => imgCont.classList.add("loaded");
+          img.onerror = () => {
+            imgCont.classList.add("loaded");
+            img.src = "https://placehold.co/400x400?text=Food";
+          };
+          imgCont.appendChild(img);
+
+          const info = document.createElement("div");
+          info.className = "card-info";
+          info.innerHTML = `<div class="card-title">${item.name}</div><div class="card-price">${item.price}</div>`;
+
+          card.appendChild(imgCont);
+          card.appendChild(info);
+          card.onclick = () => showModal(item);
+          grid.appendChild(card);
+        });
+    });
+  } catch (e) {
+    console.error("Menu failed to load", e);
   }
+}
 
-  function openModal(item) {
-    document.getElementById("modal-img").src = item.image;
-    document.getElementById("modal-title").textContent = item.name;
-    document.getElementById("modal-price").textContent = item.price;
-    document.getElementById("modal-desc").textContent =
-      item.description || "Indulge in our signature CrepUra treats.";
-    modal.classList.add("active");
-    document.body.style.overflow = "hidden";
-  }
+function showModal(item) {
+  const modal = document.getElementById("item-modal");
+  document.getElementById("modal-img").src = item.image;
+  document.getElementById("modal-title").innerText = item.name;
+  document.getElementById("modal-price").innerText = item.price;
+  document.getElementById("modal-desc").innerText =
+    item.description || "Indulge in our premium CrepUra specialty.";
+  modal.classList.add("active");
+  document.body.style.overflow = "hidden";
+}
 
-  closeBtn.onclick = () => {
-    modal.classList.remove("active");
-    document.body.style.overflow = "auto";
-  };
+document.querySelector(".close-btn").onclick = closeModal;
+window.onclick = (e) => {
+  if (e.target.classList.contains("modal")) closeModal();
+};
 
-  window.onclick = (e) => {
-    if (e.target == modal) closeBtn.onclick();
-  };
-});
+function closeModal() {
+  document.getElementById("item-modal").classList.remove("active");
+  document.body.style.overflow = "auto";
+}
+
+loadMenu();

@@ -5,8 +5,9 @@
     --text-muted: #636e72;
     --off-white: #f7f9fc;  
     --white: #ffffff;
-    --off-cyan: #a2eeff;       
-
+    --off-cyan: #a2eeff;
+    /* Added a variable for the loader base color */
+    --loader-bg: #e0e0e0;
 }
 
 html { scroll-behavior: smooth; }
@@ -93,16 +94,6 @@ header {
     transform: scale(1.05);
 }
 
-
-
-
-
-
-
-
-
-
-
 /* Content */
 main {
     padding: 2rem 1.2rem 5rem;
@@ -156,8 +147,51 @@ main {
     border-color: var(--pink); 
 }
 
-.card-img-container { width: 115px; flex-shrink: 0; }
-.card-img-container img { width: 100%; height: 100%; object-fit: cover; }
+/* Updated Image Container for Skeleton Loading */
+.card-img-container { 
+    width: 115px; 
+    flex-shrink: 0; 
+    position: relative;
+    background-color: var(--loader-bg);
+}
+
+/* Skeleton Shimmer Animation Overlay */
+.card-img-container::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, var(--loader-bg) 0%, #f0f0f0 50%, var(--loader-bg) 100%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+    z-index: 1;
+}
+
+/* Hide shimmer when class 'loaded' is added via JS */
+.card-img-container.loaded::after {
+    display: none;
+}
+
+@keyframes shimmer {
+    0% { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
+}
+
+.card-img-container img { 
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+    opacity: 0; /* Hidden until loaded */
+    transition: opacity 0.4s ease-in;
+    position: relative;
+    z-index: 2;
+}
+
+.card-img-container.loaded img {
+    opacity: 1; /* Fade in when ready */
+}
 
 .card-info { padding: 0 15px; display: flex; flex-direction: column; justify-content: center; }
 .card-title { font-size: 1.15rem; font-weight: 700; margin-bottom: 4px; }
