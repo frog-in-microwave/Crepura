@@ -505,5 +505,37 @@
     "price": "350 L.L",
     "description": "Sugar-free caramel frappe.",
     "image": "images/sf_caramel_frappe.jpg"
+  },
+  {
+    "id": 62,
+    "category": "Crepura Boxes",
+    "name": "Crepura Box Nutella",
+    "price": "6$",
+    "description": "Nutella-filled crepura box.",
+    "image": "images/crepura_box.jpeg"
+  },
+  {
+    "id": 63,
+    "category": "Crepura Boxes",
+    "name": "Crepura Box Oreo",
+    "price": "8 $",
+    "description": "Oreo-filled crepura box.",
+    "image": "images/crepura_box.jpeg"
+  },
+  {
+    "id": 64,
+    "category": "Crepura Boxes",
+    "name": "Crepura Box Lotus",
+    "price": "8 $",
+    "description": "Lotus-filled crepura box.",
+    "image": "images/crepura_box.jpeg"
+  },
+  {
+    "id": 65,
+    "category": "Crepura Boxes",
+    "name": "Crepura Box Pistachio",
+    "price": "8 $",
+    "description": "Pistachio-filled crepura box.",
+    "image": "images/crepura_box.jpeg"
   }
 ]

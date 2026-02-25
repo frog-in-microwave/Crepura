@@ -28,7 +28,9 @@ async function loadMenu() {
       const section = document.createElement("section");
       section.id = safeID;
       section.style.scrollMarginTop = "100px";
-      section.innerHTML = `<h2 class="category-title">${cat}</h2><div class="grid" id="grid-${safeID}"></div>`;
+      section.innerHTML = `
+      <hr style="margin: 10px 0px; border: 1px solid #ff6b81; border-radius: 10%;" />
+      <h2 class="category-title">${cat}</h2><div class="grid" id="grid-${safeID}"></div>`;
       container.appendChild(section);
 
       // 3. Populate Items
