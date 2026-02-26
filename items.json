@@ -537,5 +537,13 @@
     "price": "8 $",
     "description": "Pistachio-filled crepura box.",
     "image": "images/crepura_box.jpeg"
+  },
+  {
+    "id": 66,
+    "category": "Crepura Boxes",
+    "name": "Crepura Box Sitos",
+    "price": "8 $",
+    "description": "Sitos-filled crepura box.",
+    "image": "images/sitos_box.jpeg"
   }
 ]
