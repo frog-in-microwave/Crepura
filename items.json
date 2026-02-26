@@ -542,8 +542,40 @@
     "id": 66,
     "category": "Crepura Boxes",
     "name": "Crepura Box Sitos",
-    "price": "8 $",
+    "price": "250 L.L",
     "description": "Sitos-filled crepura box.",
     "image": "images/sitos_box.jpeg"
+  },
+  {
+    "id": 67,
+    "category": "Milkshakes",
+    "name": "Caramel milkshake",
+    "price": "300 L.L",
+    "description": "Blended caramel milkshake.",
+    "image": "images/caramel_milkshake.jpg"
+  },
+  {
+    "id": 68,
+    "category": "Milkshakes",
+    "name": "Strawberry Milkshake",
+    "price": "300 L.L",
+    "description": "Blended strawberry milkshake.",
+    "image": "images/strawberry_milkshake.jpg"
+  },
+  {
+    "id": 69,
+    "category": "Frappe",
+    "name": "White Mocha frappe",
+    "price": "350 L.L",
+    "description": "Blended white mocha coffee.",
+    "image": "images/white_mocha_frappe.jpg"
+  },
+  {
+    "id": 70,
+    "category": "Frappe",
+    "name": "Hazelnut frappe",
+    "price": "350 L.L",
+    "description": "Blended hazelnut coffee.",
+    "image": "images/hazelnut_frappe.jpg"
   }
 ]
