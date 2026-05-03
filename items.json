@@ -22,6 +22,13 @@
   },
   {
     "category": "Crepes",
+    "name": "Crepura specialty crepe",
+    "price": "8$",
+    "description": "Crepe with nutella, pistachio and white chocolate.",
+    "image": "images/crepura_specialty_crepe.jpg"
+  },
+  {
+    "category": "Crepes",
     "name": "Oreo crepe",
     "price": "5.5$",
     "description": "Crepe with crushed Oreo.",
@@ -530,6 +537,13 @@
     "price": "50 L.L",
     "description": "Extra cornflakes on top.",
     "image": "images/cornflakes_piece.jpg"
+  },
+  {
+    "category": "Add-ons",
+    "name": "Extra choclate",
+    "price": "150 L.L",
+    "description": "Extra choclate of any kind.",
+    "image": "images/extra_choclate.jpg"
   },
   {
     "category": "Add-ons",
