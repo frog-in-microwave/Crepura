@@ -505,6 +505,13 @@
   },
   {
     "category": "Add-ons",
+    "name": "Kinder bueno",
+    "price": "50 L.L",
+    "description": "Extra Kinder bueno chocolate on top.",
+    "image": "images/kinder_bueno_piece.avif"
+  },
+  {
+    "category": "Add-ons",
     "name": "Oreo",
     "price": "50 L.L",
     "description": "Extra Oreo biscuit on top.",
