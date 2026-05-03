@@ -547,6 +547,13 @@
   },
   {
     "category": "Add-ons",
+    "name": "Marshmellows",
+    "price": "50 L.L",
+    "description": "Extra marshmellows on top.",
+    "image": "images/extra_marshmellow.webp"
+  },
+  {
+    "category": "Add-ons",
     "name": "Strawberry",
     "price": "50 L.L",
     "description": "Extra Strawberries on top.",
