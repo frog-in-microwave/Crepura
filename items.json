@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "category": "Crepes",
     "name": "Nutella crepe",
     "price": "4.5$",
@@ -8,7 +7,6 @@
     "image": "images/nutella_crepe.jpeg"
   },
   {
-    "id": 2,
     "category": "Crepes",
     "name": "Kinder crepe",
     "price": "5.5$",
@@ -16,7 +14,6 @@
     "image": "images/kinder_crepe.jpeg"
   },
   {
-    "id": 3,
     "category": "Crepes",
     "name": "Kinder Bueno crepe",
     "price": "8$",
@@ -24,7 +21,6 @@
     "image": "images/kinder_bueno_crepe.jpeg"
   },
   {
-    "id": 4,
     "category": "Crepes",
     "name": "Oreo crepe",
     "price": "5.5$",
@@ -32,7 +28,6 @@
     "image": "images/oreo_crepe.jpeg"
   },
   {
-    "id": 5,
     "category": "Crepes",
     "name": "Lotus crepe",
     "price": "5.5$",
@@ -40,7 +35,6 @@
     "image": "images/lotus_crepe.jpeg"
   },
   {
-    "id": 6,
     "category": "Crepes",
     "name": "Pistachio crepe",
     "price": "5.5$",
@@ -48,7 +42,6 @@
     "image": "images/pistachio_crepe.jpeg"
   },
   {
-    "id": 7,
     "category": "Pancakes",
     "name": "Nutella pancake",
     "price": "4.5$",
@@ -56,7 +49,6 @@
     "image": "images/nutella_pancake.jpg"
   },
   {
-    "id": 8,
     "category": "Pancakes",
     "name": "Kinder pancake",
     "price": "5.5$",
@@ -64,7 +56,6 @@
     "image": "images/kinder_pancake.jpg"
   },
   {
-    "id": 9,
     "category": "Pancakes",
     "name": "Oreo pancake",
     "price": "5.5$",
@@ -72,7 +63,6 @@
     "image": "images/oreo_pancake.jpg"
   },
   {
-    "id": 10,
     "category": "Pancakes",
     "name": "Lotus pancake",
     "price": "5.5$",
@@ -80,7 +70,6 @@
     "image": "images/lotus_pancake.jpg"
   },
   {
-    "id": 11,
     "category": "Pancakes",
     "name": "Pistachio pancake",
     "price": "5.5$",
@@ -88,7 +77,6 @@
     "image": "images/pistachio_pancake.jpg"
   },
   {
-    "id": 12,
     "category": "Pancakes",
     "name": "Pancake bulls",
     "price": "5.5$",
@@ -96,7 +84,6 @@
     "image": "images/pancake_bulls.jpeg"
   },
   {
-    "id": 13,
     "category": "Offers",
     "name": "30 Pancake bulls",
     "price": "1000 L.L",
@@ -104,7 +91,6 @@
     "image": "images/pancake_bulls_offer.jpeg"
   },
   {
-    "id": 14,
     "category": "Offers",
     "name": "Any 2 crepes + 1 drink free",
     "price": "11$ L.L",
@@ -112,7 +98,6 @@
     "image": "images/2_creps_1_drink_offer.png"
   },
   {
-    "id": 15,
     "category": "Sweets",
     "name": "Chocolate cake piece",
     "price": "4.5$",
@@ -120,7 +105,6 @@
     "image": "images/chocolate_cake.jpg"
   },
   {
-    "id": 16,
     "category": "Sweets",
     "name": "Cupcakes",
     "price": "1$",
@@ -128,7 +112,6 @@
     "image": "images/cupcake.jpeg"
   },
   {
-    "id": 17,
     "category": "Sweets",
     "name": "Cheesecake",
     "price": "4.5$",
@@ -136,7 +119,6 @@
     "image": "images/cheesecake.jpeg"
   },
   {
-    "id": 18,
     "category": "Sweets",
     "name": "Berries cheesecake",
     "price": "4.5$",
@@ -144,7 +126,6 @@
     "image": "images/berries_cheesecake.jpg"
   },
   {
-    "id": 19,
     "category": "Sweets",
     "name": "Lotus cheesecake",
     "price": "4.5$",
@@ -152,7 +133,6 @@
     "image": "images/lotus_cheesecake.jpg"
   },
   {
-    "id": 20,
     "category": "Sweets",
     "name": "Oreo cheesecake",
     "price": "4.5$",
@@ -160,7 +140,6 @@
     "image": "images/oreo_cheesecake.jpeg"
   },
   {
-    "id": 21,
     "category": "Sweets",
     "name": "Cookie",
     "price": "100 L.L",
@@ -168,7 +147,6 @@
     "image": "images/cookies.jpeg"
   },
   {
-    "id": 22,
     "category": "Sweets",
     "name": "Tiramisu",
     "price": "4.5$",
@@ -176,7 +154,6 @@
     "image": "images/tiramisu.jpeg"
   },
   {
-    "id": 23,
     "category": "Sweets",
     "name": "Lazy cake",
     "price": "4.5$",
@@ -184,7 +161,6 @@
     "image": "images/lazy_cake.jpg"
   },
   {
-    "id": 24,
     "category": "Kaake",
     "name": "Thyme",
     "price": "150 L.L",
@@ -192,7 +168,6 @@
     "image": "images/kaake.jpg"
   },
   {
-    "id": 25,
     "category": "Kaake",
     "name": "Picon",
     "price": "200 L.L",
@@ -200,7 +175,6 @@
     "image": "images/kaake.jpg"
   },
   {
-    "id": 26,
     "category": "Kaake",
     "name": "Halloum",
     "price": "220 L.L",
@@ -208,7 +182,6 @@
     "image": "images/cheese_kaake.jpg"
   },
   {
-    "id": 27,
     "category": "Kaake",
     "name": "Akawi",
     "price": "250 L.L",
@@ -216,7 +189,6 @@
     "image": "images/cheese_kaake.jpg"
   },
   {
-    "id": 28,
     "category": "Kaake",
     "name": "3 cheese",
     "price": "300 L.L",
@@ -224,7 +196,6 @@
     "image": "images/cheese_kaake.jpg"
   },
   {
-    "id": 29,
     "category": "Kaake",
     "name": "4 cheese",
     "price": "350 L.L",
@@ -232,7 +203,6 @@
     "image": "images/cheese_kaake.jpg"
   },
   {
-    "id": 30,
     "category": "Kaake",
     "name": "Turkey & cheese",
     "price": "350 L.L",
@@ -240,7 +210,6 @@
     "image": "images/kaake.jpg"
   },
   {
-    "id": 31,
     "category": "Kaake",
     "name": "Nutella Kaake",
     "price": "200 L.L",
@@ -248,7 +217,6 @@
     "image": "images/nutella_kaake.jpg"
   },
   {
-    "id": 32,
     "category": "Kaake",
     "name": "Pizza Kaake",
     "price": "400 L.L",
@@ -256,7 +224,6 @@
     "image": "images/kaake.jpg"
   },
   {
-    "id": 33,
     "category": "Hot Drinks",
     "name": "Cappuccino",
     "price": "250 L.L",
@@ -264,7 +231,6 @@
     "image": "images/cappuccino.jpg"
   },
   {
-    "id": 34,
     "category": "Hot Drinks",
     "name": "Hot chocolate",
     "price": "300 L.L",
@@ -272,7 +238,6 @@
     "image": "images/hot_chocolate.jpg"
   },
   {
-    "id": 35,
     "category": "Hot Drinks",
     "name": "Americano",
     "price": "250 L.L",
@@ -280,7 +245,6 @@
     "image": "images/americano.jpg"
   },
   {
-    "id": 36,
     "category": "Hot Drinks",
     "name": "Flat white",
     "price": "250 L.L",
@@ -288,7 +252,6 @@
     "image": "images/flat_white.jpg"
   },
   {
-    "id": 37,
     "category": "Hot Drinks",
     "name": "Caramel macchiato",
     "price": "300 L.L",
@@ -296,7 +259,6 @@
     "image": "images/caramel_macchiato.jpeg"
   },
   {
-    "id": 38,
     "category": "Hot Drinks",
     "name": "Caffe latte",
     "price": "250 L.L",
@@ -304,7 +266,6 @@
     "image": "images/caffe_latte.jpg"
   },
   {
-    "id": 39,
     "category": "Hot Drinks",
     "name": "White mocca latte",
     "price": "300 L.L",
@@ -312,7 +273,6 @@
     "image": "images/white_mocca_latte.jpeg"
   },
   {
-    "id": 40,
     "category": "Hot Drinks",
     "name": "Dark mocca latte",
     "price": "300 L.L",
@@ -320,7 +280,6 @@
     "image": "images/dark_mocca_latte.jpeg"
   },
   {
-    "id": 41,
     "category": "Hot Drinks",
     "name": "Spanish latte",
     "price": "300 L.L",
@@ -328,7 +287,6 @@
     "image": "images/spanish_latte.jpg"
   },
   {
-    "id": 42,
     "category": "Iced Drinks",
     "name": "Iced caramel macchiato",
     "price": "300 L.L",
@@ -336,7 +294,6 @@
     "image": "images/iced_caramel_maciato.jpeg"
   },
   {
-    "id": 43,
     "category": "Iced Drinks",
     "name": "Iced white mocca",
     "price": "300 L.L",
@@ -344,7 +301,6 @@
     "image": "images/iced_white_mocca.jpg"
   },
   {
-    "id": 44,
     "category": "Iced Drinks",
     "name": "Iced dark mocca",
     "price": "300 L.L",
@@ -352,7 +308,6 @@
     "image": "images/iced_dark_mocca.jpg"
   },
   {
-    "id": 45,
     "category": "Iced Drinks",
     "name": "Iced latte",
     "price": "250 L.L",
@@ -360,7 +315,6 @@
     "image": "images/iced_latte.jpg"
   },
   {
-    "id": 46,
     "category": "Iced Drinks",
     "name": "Iced Spanish latte",
     "price": "300 L.L",
@@ -368,7 +322,6 @@
     "image": "images/iced_spanish_latte.jpg"
   },
   {
-    "id": 47,
     "category": "Iced Drinks",
     "name": "Crepura iced",
     "price": "350 L.L",
@@ -376,7 +329,6 @@
     "image": "images/crepura_iced.jpeg"
   },
   {
-    "id": 48,
     "category": "Milkshakes",
     "name": "chocolate milkshake",
     "price": "350 L.L",
@@ -384,7 +336,6 @@
     "image": "images/chocolate_milkshake.jpg"
   },
   {
-    "id": 49,
     "category": "Milkshakes",
     "name": "Oreo milkshake",
     "price": "350 L.L",
@@ -392,7 +343,6 @@
     "image": "images/oreo_milkshake.jpeg"
   },
   {
-    "id": 50,
     "category": "Milkshakes",
     "name": "vanilla milkshake",
     "price": "350 L.L",
@@ -400,7 +350,6 @@
     "image": "images/vanilla_milkshake.jpg"
   },
   {
-    "id": 51,
     "category": "Milkshakes",
     "name": "Lotus milkshake",
     "price": "350 L.L",
@@ -408,7 +357,6 @@
     "image": "images/lotus_milkshake.jpg"
   },
   {
-    "id": 52,
     "category": "Milkshakes",
     "name": "Hazelnut milkshake",
     "price": "350 L.L",
@@ -416,7 +364,6 @@
     "image": "images/hazelnut_milkshake.jpeg"
   },
   {
-    "id": 53,
     "category": "Milkshakes",
     "name": "Caramel milkshake",
     "price": "350 L.L",
@@ -424,7 +371,6 @@
     "image": "images/caramel_milkshake.jpg"
   },
   {
-    "id": 54,
     "category": "Milkshakes",
     "name": "Strawberry Milkshake",
     "price": "350 L.L",
@@ -432,7 +378,6 @@
     "image": "images/strawberry_milkshake.jpg"
   },
   {
-    "id": 55,
     "category": "Frappe",
     "name": "Vanilla frappe",
     "price": "400 L.L",
@@ -440,7 +385,6 @@
     "image": "images/vanilla_frappe.jpg"
   },
   {
-    "id": 56,
     "category": "Frappe",
     "name": "Caramel frappe",
     "price": "400 L.L",
@@ -448,7 +392,6 @@
     "image": "images/caramel_frappe.jpeg"
   },
   {
-    "id": 57,
     "category": "Frappe",
     "name": "Mocha frappe",
     "price": "400 L.L",
@@ -456,7 +399,6 @@
     "image": "images/mocca_frappe.jpg"
   },
   {
-    "id": 58,
     "category": "Frappe",
     "name": "White Mocha frappe",
     "price": "400 L.L",
@@ -464,7 +406,6 @@
     "image": "images/white_mocha_frappe.jpg"
   },
   {
-    "id": 59,
     "category": "Frappe",
     "name": "Hazelnut frappe",
     "price": "400 L.L",
@@ -472,7 +413,6 @@
     "image": "images/hazelnut_frappe.jpg"
   },
   {
-    "id": 60,
     "category": "Smoothies",
     "name": "Mango smoothie",
     "price": "350 L.L",
@@ -480,7 +420,6 @@
     "image": "images/mango_smoothie.jpeg"
   },
   {
-    "id": 61,
     "category": "Smoothies",
     "name": "Strawberry smoothie",
     "price": "350 L.L",
@@ -488,7 +427,6 @@
     "image": "images/strawberry_smoothie.jpeg"
   },
   {
-    "id": 62,
     "category": "Smoothies",
     "name": "Wild berries smoothie",
     "price": "350 L.L",
@@ -496,7 +434,6 @@
     "image": "images/wild_berries_smoothie.jpeg"
   },
   {
-    "id": 63,
     "category": "Sugar Free",
     "name": "S.F. Vanilla milkshake",
     "price": "350 L.L",
@@ -504,7 +441,6 @@
     "image": "images/sf_vanilla_milkshake.jpg"
   },
   {
-    "id": 64,
     "category": "Sugar Free",
     "name": "S.F. Caramel milkshake",
     "price": "350 L.L",
@@ -512,7 +448,6 @@
     "image": "images/sf_caramel_milkshake.jpg"
   },
   {
-    "id": 65,
     "category": "Sugar Free",
     "name": "S.F. Vanilla frappe",
     "price": "400 L.L",
@@ -520,7 +455,6 @@
     "image": "images/sf_vanilla_frappe.jpg"
   },
   {
-    "id": 66,
     "category": "Sugar Free",
     "name": "S.F. Caramel frappe",
     "price": "400 L.L",
@@ -528,7 +462,6 @@
     "image": "images/sf_caramel_frappe.jpg"
   },
   {
-    "id": 67,
     "category": "Crepura Boxes",
     "name": "Crepura Box Nutella",
     "price": "6.5$",
@@ -536,7 +469,6 @@
     "image": "images/crepura_box.jpeg"
   },
   {
-    "id": 68,
     "category": "Crepura Boxes",
     "name": "Crepura Box Oreo",
     "price": "8.5$",
@@ -544,7 +476,6 @@
     "image": "images/crepura_box.jpeg"
   },
   {
-    "id": 69,
     "category": "Crepura Boxes",
     "name": "Crepura Box Lotus",
     "price": "8.5$",
@@ -552,7 +483,6 @@
     "image": "images/crepura_box.jpeg"
   },
   {
-    "id": 70,
     "category": "Crepura Boxes",
     "name": "Crepura Box Pistachio",
     "price": "8.5$",
@@ -560,7 +490,6 @@
     "image": "images/crepura_box.jpeg"
   },
   {
-    "id": 71,
     "category": "Crepura Boxes",
     "name": "Crepura Box Sitos",
     "price": "300 L.L",
@@ -568,7 +497,6 @@
     "image": "images/sitos_box.jpeg"
   },
   {
-    "id": 72,
     "category": "Add-ons",
     "name": "Kinder",
     "price": "50 L.L",
@@ -576,7 +504,6 @@
     "image": "images/kinder_piece.jpg"
   },
   {
-    "id": 73,
     "category": "Add-ons",
     "name": "Oreo",
     "price": "50 L.L",
@@ -584,7 +511,6 @@
     "image": "images/oreo_piece.jpg"
   },
   {
-    "id": 74,
     "category": "Add-ons",
     "name": "Lotus",
     "price": "50 L.L",
@@ -592,7 +518,6 @@
     "image": "images/lotus_piece.jpg"
   },
   {
-    "id": 75,
     "category": "Add-ons",
     "name": "Corn flakes",
     "price": "50 L.L",
@@ -600,7 +525,6 @@
     "image": "images/cornflakes_piece.jpg"
   },
   {
-    "id": 76,
     "category": "Add-ons",
     "name": "Strawberry",
     "price": "50 L.L",
@@ -608,7 +532,6 @@
     "image": "images/strawberry_piece.jpg"
   },
   {
-    "id": 77,
     "category": "Add-ons",
     "name": "Banana",
     "price": "50 L.L",
