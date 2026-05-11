@@ -91,6 +91,13 @@
     "image": "images/pancake_bulls.jpeg"
   },
   {
+    "category": "Pancakes",
+    "name": "Mini pancakes with strawberry",
+    "price": "5.5$",
+    "description": "Mini pancakes with multiple flavors.",
+    "image": "images/mini_pancakes.jpeg"
+  },
+  {
     "category": "Offers",
     "name": "30 Pancake bulls",
     "price": "1000 L.L",
