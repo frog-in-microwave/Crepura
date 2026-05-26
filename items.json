@@ -447,6 +447,22 @@
     "description": "Refreshing berry blend.",
     "image": "images/wild_berries_smoothie.jpeg"
   },
+
+  {
+    "category": "Special Drinks",
+    "name": "Cheese cake Drink",
+    "price": "350 L.L",
+    "description": "Refreshing cheesecake blend.",
+    "image": "images/cheese_cake_drink.jpg"
+  },
+  {
+    "category": "Special Drinks",
+    "name": "Greek yogurt Drink",
+    "price": "350 L.L",
+    "description": "Refreshing greek yogurt blend.",
+    "image": "images/greek_yogurt_drink.jpg"
+  },
+
   {
     "category": "Sugar Free",
     "name": "S.F. Vanilla milkshake",
