@@ -22,6 +22,20 @@
   },
   {
     "category": "Crepes",
+    "name": "Crunchy crepe",
+    "price": "9$",
+    "description": "",
+    "image": "images/crunchy_crepe.jpeg"
+  },
+  {
+    "category": "Crepes",
+    "name": "Velvet Crackle crepe",
+    "price": "8$",
+    "description": "Crepe with pattesier cream, brownies, nutella and white chocolate.",
+    "image": "images/velvet_crackle_crepe.png"
+  },
+  {
+    "category": "Crepes",
     "name": "Crepura specialty crepe",
     "price": "8$",
     "description": "Crepe with nutella, pistachio and white chocolate.",
@@ -105,13 +119,6 @@
     "image": "images/pancake_bulls_offer.jpeg"
   },
   {
-    "category": "Offers",
-    "name": "Any 2 crepes + 1 drink free",
-    "price": " ",
-    "description": "Free drink with any 2 crepes",
-    "image": "images/2_creps_1_drink_offer.png"
-  },
-  {
     "category": "Sweets",
     "name": "Chocolate cake piece",
     "price": "4.5$",
@@ -173,69 +180,6 @@
     "price": "4.5$",
     "description": "Traditional chocolate biscuit cake.",
     "image": "images/lazy_cake.jpg"
-  },
-  {
-    "category": "Kaake",
-    "name": "Thyme",
-    "price": "150 L.L",
-    "description": "Zaatar Kaake.",
-    "image": "images/kaake.jpg"
-  },
-  {
-    "category": "Kaake",
-    "name": "Picon",
-    "price": "200 L.L",
-    "description": "Cheese Picon Kaake.",
-    "image": "images/kaake.jpg"
-  },
-  {
-    "category": "Kaake",
-    "name": "Halloum",
-    "price": "220 L.L",
-    "description": "Halloumi cheese Kaake.",
-    "image": "images/cheese_kaake.jpg"
-  },
-  {
-    "category": "Kaake",
-    "name": "Akawi",
-    "price": "250 L.L",
-    "description": "Akawi cheese Kaake.",
-    "image": "images/cheese_kaake.jpg"
-  },
-  {
-    "category": "Kaake",
-    "name": "3 cheese",
-    "price": "300 L.L",
-    "description": "Triple cheese blend Kaake.",
-    "image": "images/cheese_kaake.jpg"
-  },
-  {
-    "category": "Kaake",
-    "name": "4 cheese",
-    "price": "350 L.L",
-    "description": "Four cheese blend Kaake.",
-    "image": "images/cheese_kaake.jpg"
-  },
-  {
-    "category": "Kaake",
-    "name": "Turkey & cheese",
-    "price": "350 L.L",
-    "description": "Turkey slices and cheese Kaake.",
-    "image": "images/kaake.jpg"
-  },
-  {
-    "category": "Kaake",
-    "name": "Nutella Kaake",
-    "price": "200 L.L",
-    "description": "Sweet Nutella Kaake.",
-    "image": "images/nutella_kaake.jpg"
-  },
-  {
-    "category": "Kaake",
-    "name": "Pizza Kaake",
-    "price": "400 L.L",
-    "description": "Pizza toppings Kaake.",
-    "image": "images/kaake.jpg"
   },
   {
     "category": "Hot Drinks",
