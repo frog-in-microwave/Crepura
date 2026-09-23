@@ -17,7 +17,7 @@
     "category": "Crepes",
     "name": "Kinder Bueno crepe",
     "price": "8$",
-    "description": "Crepe with Kinder chocolate.",
+    "description": "Crepe with Kinder bueno chocolate.",
     "image": "images/kinder_bueno_crepe.jpeg"
   },
   {
@@ -32,7 +32,7 @@
     "name": "Velvet Crackle crepe",
     "price": "10$",
     "description": "Crepe with pattesier cream, brownies, nutella and white chocolate.",
-    "image": "images/velvet_crackle_crepe.png"
+    "image": "images/velvet_crackle_crepe.avif"
   },
   {
     "category": "Crepes",
